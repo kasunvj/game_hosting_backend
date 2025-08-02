@@ -1,0 +1,27 @@
+[
+  {
+    "court": "Independence Park Tennis Court",
+    "timeFrom": "4:00 PM",
+    "timeTo": "6:00 PM",
+    "location": "Colombo 7",
+    "host": "Kasun",
+    "notes": "Beginner friendly"
+  },
+  {
+    "court": "Royal College Grounds",
+    "timeFrom": "5:30 PM",
+    "timeTo": "7:00 PM",
+    "location": "Reid Avenue",
+    "host": "Saman",
+    "notes": "Looking for doubles match"
+  },
+  {
+    "court": "Royal College Grounds",
+    "timeFrom": "5:30 PM",
+    "timeTo": "7:00 PM",
+    "location": "Reid Avenue",
+    "host": "Saman",
+    "notes": "Looking for doubles match"
+  }
+]
+
